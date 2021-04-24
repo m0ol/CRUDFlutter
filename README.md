@@ -1,6 +1,6 @@
 # crudflutter
 
-A new Flutter project.
+Login and Register with Flutter and Firebase
 
 ## Getting Started
 
